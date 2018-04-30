@@ -14,8 +14,11 @@
 1. Grib Sources
   * [ncom current files](http://ftp.ocean.weather.gov/grids/operational/NCOM/regional/GRIB2/)
   * [zygrib software for zygrib grib files](http://www.zygrib.org/)
-  * [NOAA GFS stuff](http://www.nco.ncep.noaa.gov/pmb/products/gfs/#GFS)
-2. Code References
+  * [NOAA GFS data](http://www.nco.ncep.noaa.gov/pmb/products/gfs/#GFS)
+  * [NOAA GFS homepage](https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs)
+2. Weather/Ocean Stuff
+  * [Current Gulfstream](http://www.opc.ncep.noaa.gov/Loops/ocean_guidance.php?model=Global_RTOFS&area=GS&plot=currents&day=1&loop=1)
+3. Code References
   * Grib File Stuff
     * [pygrib.open info](https://jswhit.github.io/pygrib/docs/pygrib.open-class.html)
   * Presentation
