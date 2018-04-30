@@ -16,6 +16,8 @@
   * [zygrib software for zygrib grib files](http://www.zygrib.org/)
   * [NOAA GFS stuff](http://www.nco.ncep.noaa.gov/pmb/products/gfs/#GFS)
 2. Code References
+  * Grib File Stuff
+    * [pygrib.open info](https://jswhit.github.io/pygrib/docs/pygrib.open-class.html)
   * Presentation
     * [Basemap Presentation Library examples](https://matplotlib.org/basemap/users/examples.html)
     * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
