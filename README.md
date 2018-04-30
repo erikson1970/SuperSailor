@@ -25,6 +25,7 @@
 3. Code References
   * Grib File Stuff
     * [pygrib.open info](https://jswhit.github.io/pygrib/docs/pygrib.open-class.html)
+    * [Grib plotting examples](https://software.ecmwf.int/wiki/display/CKB/How+to+plot+GRIB+files+with+Python+and+matplotlib)
   * Presentation
     * [Basemap Presentation Library examples](https://matplotlib.org/basemap/users/examples.html)
     * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
