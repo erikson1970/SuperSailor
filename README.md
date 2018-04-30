@@ -1,5 +1,5 @@
 # SuperSailor
-
+  **_This is a total Work in Progress_** ==> not ready for primetime.  Do not use for navigation or voyage planning.
 ## Background
   * **TODO**
 ## Usage
