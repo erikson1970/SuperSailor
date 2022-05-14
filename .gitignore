@@ -20,3 +20,7 @@ coverage.xml
 cover/
 # Jupyter Notebook
 .ipynb_checkpoints
+#movies
+*.mp4
+#grib files
+*.grb
